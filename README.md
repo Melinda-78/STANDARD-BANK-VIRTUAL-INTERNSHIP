@@ -1,8 +1,11 @@
 # STANDARD-BANK-VIRTUAL-INTERNSHIP
 
+
  Project Overview
+ 
 This project focuses on predicting whether an applicant is eligible for a home loan at Standard Bank. Traditionally, loan approval decisions can take up to 2 days when done manually — the goal here was to build and compare bespoke machine learning models and AutoML solutions to reduce the decision time to just 2 minutes, enabling faster and more efficient credit assessments.
  Objectives
+ 
 Reduce manual decision time from 2 days to ~2 minutes through automation.
 
 
@@ -48,6 +51,7 @@ Compared results to the custom pipeline to validate improvements in speed and pe
 
 
  Results
+ 
 Decision time reduced: From 2 days to ~2 minutes.
 
 
