@@ -13,6 +13,7 @@ Deliver clear, actionable insights that can be easily communicated to non-techni
 
 
  Methodology
+ 
     1. Bespoke Machine Learning Pipeline
 Tools: Python, scikit-learn, XGBoost
 
